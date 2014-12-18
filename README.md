@@ -10,4 +10,6 @@ This year we're doing this a little differently. Rather than solicit proposals w
 
 Please do **not** send proposals for talks that *you* would give. Feel free to post links to projects you've done or talks you've done that you think are worth taking a look at but don't send proposals for a talk.
 
+Feel free to leave any notable ideas on this issue tracker.
+
 NodeConf will follow up on all these projects and build a two day narrative of talks by reaching out to individuals an asking them to give a talk about a specific subject.
